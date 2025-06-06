@@ -1,4 +1,4 @@
-# Inbox 24/7
+# Projeto-Inbox
 
 Aplicação de gerenciamento de objetos para reserva. A aplicação permite criar grupos e registrar produtos para reserva por usuários.
 
